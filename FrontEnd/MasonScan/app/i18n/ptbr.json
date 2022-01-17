@@ -1,0 +1,54 @@
+{
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "errors": {
+    "invalidEmail": "Invalid email address."
+  },
+  "welcomeScreen": {
+    "poweredBy": "POWERED BY JUAN-BR",
+    "readyForLaunch": "Ready for launch.",
+    "continue": "CONTINUE",
+    "verify": "VERIFICAR REGULARIDADE"
+  },
+  "demoScreen": {
+    "howTo": "HOW TO",
+    "title": "What’s In This Stack?",
+    "tagLine": "Congratulations, you’ve got a very advanced React Native app template here.  Take advantage of this boilerplate!",
+    "reactotron": "Demo Reactotron",
+    "demoList": "Demo List",
+    "androidReactotronHint": "If this doesn't work, ensure the Reactotron desktop app is running, run adb reverse tcp:9090 tcp:9090 from your terminal, and reload the app.",
+    "iosReactotronHint": "If this doesn't work, ensure the Reactotron desktop app is running and reload app.",
+    "macosReactotronHint": "If this doesn't work, ensure the Reactotron desktop app is running and reload app.",
+    "webReactotronHint": "If this doesn't work, ensure the Reactotron desktop app is running and reload app.",
+    "windowsReactotronHint": "If this doesn't work, ensure the Reactotron desktop app is running and reload app."
+  },
+  "demoListScreen": {
+    "title": "Demo List"
+  },
+  "verifyScreen": {
+    "pageTitle": "MASONSCAN",
+    "title": "Verificar Regularidade",
+    "tagLine": "Nesta tela você poderá verificar a regularidade de um irmão de qualquer potência regular no Estado do Rio de janeiro. Digite apenas os números do cadastro do irmão no campo abaixo e clique em verificar.",
+    "reactotron": "Verificar",
+    "demoList": "Demo List",
+    "verified": "Verificação Concluída",
+    "androidReactotronHint": "Pode demorar alguns segundos até que a verificação seja concluída.",
+    "iosReactotronHint": "Pode demorar alguns segundos até que a verificação seja concluída.",
+    "macosReactotronHint": "Pode demorar alguns segundos até que a verificação seja concluída.",
+    "webReactotronHint": "Pode demorar alguns segundos até que a verificação seja concluída.",
+    "windowsReactotronHint": "Pode demorar alguns segundos até que a verificação seja concluída."
+  },
+  "errorScreen": {
+    "title": "Something went wrong!",
+    "friendlySubtitle": "This is the screen that your users will see in production when an error is thrown. You'll want to customize this message (located in `app/i18n/en.json`) and probably the layout as well (`app/screens/error`). If you want to remove this entirely, check `app/app.tsx` for the <ErrorBoundary> component.",
+    "traceTitle": "Error from %{name} stack",
+    "reset": "RESET APP"
+  },
+  "storybook": {
+    "placeholder": "Placeholder",
+    "field": "Field"
+  }
+}
